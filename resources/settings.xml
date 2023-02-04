@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <category label="Sync options">
+        <setting id="check_interval" label="Check interval (minutes)" type="number" default="15" />
+        <setting id="cache_time" label="Cache time (hours)" type="number" default="24" />
+        <setting id="folder_path" label="Folder path" type="folder" default="" />
+    </category>
+</settings>
